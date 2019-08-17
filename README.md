@@ -16,5 +16,10 @@ Aperfeiçoar o conhecimento com spring 4
 - Maven
 ```
 ## Observações
+```
+- Base de estudo: algaworks-livro-spring-boot-v3.0 o mesmo consta dentro desse projeto. 
+```
+
+
 
 
